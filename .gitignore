@@ -1,7 +1,0 @@
-.DS_Store
-node_modules/
-*.log
-.env
-.vscode/
-__pycache__/
-*.pyc 
